@@ -14,7 +14,7 @@
 - **Blockchain Platforms:** Ethereum, Solana, Polkadot
 - **Programming Languages:** Rust, Solidity, JavaScript
 - **Technologies:** ZKP, SNARKs, Stark, IPFS, State Channels
-- **Design & Animation:** Adobe XD, Figma, Blender
+
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [Cryptoineer](https://www.linkedin.com/in/cryptoineer/)
