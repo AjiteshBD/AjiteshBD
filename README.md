@@ -50,11 +50,22 @@
 ![DeFi](https://img.shields.io/badge/DeFi-3C3C3D?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![NFT Marketplace](https://img.shields.io/badge/NFT%20Marketplace-3C3C3D?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=48247702&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=48247702&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@AjiteshBD's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=48247702&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 
-![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 
 ## 🌐 Connect with Me
+![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cryptoineer/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theCryptoineer)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajiteshmishra.com)
