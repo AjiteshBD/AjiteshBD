@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 👀 **Passionate Explorer:** Blockchain & Decentralized Web
 - 🌱 **Currently Learning:** Rust for Solana and Polkadot
-- 🔒 **Security Buff:** Zero-Knowledge Proofs (ZKP), SNARKs, Stark
+- 🔒 **Security Buff:** Zero-Knowledge Proofs (ZKP), SNARKs, Stark, Audits
 - 🎨 **Creative Mind:** Design & Animation Enthusiast
 - 💞️ **Collaboration Goals:** Open-source Libraries for Decentralized Web
 - 🌟 **Solo Hacker & Blockchain Architect**
