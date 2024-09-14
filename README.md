@@ -9,6 +9,7 @@
 - 🎨 **Creative Mind:** Design & Animation Enthusiast
 - 💞️ **Collaboration Goals:** Open-source Libraries for Decentralized Web
 - 🌟 **Solo Hacker & Blockchain Architect**
+- 🏅 **Few Hack winner**
 
 
 <!-- Copy-paste in your Readme.md file -->
