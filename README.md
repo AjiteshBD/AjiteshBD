@@ -77,9 +77,9 @@
 ![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cryptoineer/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theCryptoineer)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajiteshmishra.com)
+
 
 <!---
 AjiteshBD/AjiteshBD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
